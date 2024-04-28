@@ -1,5 +1,4 @@
 ﻿namespace tpmodul10_1302223107;
-
 public class Mahasiswa
 {
     public string Nama { get; set; }
